@@ -1,0 +1,5 @@
+{
+  "framework": "vite",
+  "outputDirectory": "artifacts/wsfa/dist/public",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
